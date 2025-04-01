@@ -47,8 +47,4 @@ This is a Go-based Product Management API that provides functionality for managi
 ## API Endpoints
 (You can add the rest of the API details here as previously explained)
 
-```css
 I’ve updated the README to include steps for installing Go, adding the necessary packages, and running the project.
-You can download the updated version from here:
-[Download README.md](sandbox:/mnt/data/README.md)
-```
