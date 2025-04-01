@@ -32,7 +32,6 @@ This endpoint returns a list of all products in the system.
     "Price": 45000,
     "Quantity": 10
   },
-  ...
 ]
 ```
 
