@@ -30,9 +30,9 @@ This is a Go-based Product Management API that provides functionality for managi
 
 3. **Add Required Packages**:
   After downloading the project, navigate to the project folder, then run the following command to add the required packages:
-  ```bash
-  go mod tidy
-  ```
+     ```bash
+     go mod tidy
+  
 4. **Run the Project**:
   To run the application, use the following command in the same folder:
   ```bash
