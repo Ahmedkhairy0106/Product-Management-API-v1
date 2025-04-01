@@ -35,14 +35,14 @@ This is a Go-based Product Management API that provides functionality for managi
   
 4. **Run the Project**:
   To run the application, use the following command in the same folder:
-  ```bash
-  go run main.go
-  ```
+     ```bash
+     go run main.go
+     
 5. **Access the API**:
    The application will start listening on port 8080. You can access the API via:
-   ```bash
-   http://localhost:8080/api/products
-   ```
+      ```bash
+      http://localhost:8080/api/products
+
 
 ## API Endpoints
 (You can add the rest of the API details here as previously explained)
